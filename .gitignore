@@ -5,4 +5,4 @@
 /src/compiled_contracts
 
 #truffle config
-/src/truffle-config.js
+src/truffle-config.js
