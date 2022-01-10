@@ -1,6 +1,6 @@
 const path = require("path");
 var HDWalletProvider = require("truffle-hdwallet-provider");
-var mnemonic2 = "speak foster humble photo snake actress miss rebuild helmet glance dilemma fruit"
+var mnemonic2 = ""
 const mainnetUrl = "https://mainnet.infura.io/v3/bad8cc770bef49dc88683bf2290205c8";
 
 module.exports = {

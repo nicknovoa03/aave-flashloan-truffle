@@ -3,3 +3,6 @@
 
 #compiled contracts
 /src/compiled_contracts
+
+#truffle config
+/src/truffle-config.js
