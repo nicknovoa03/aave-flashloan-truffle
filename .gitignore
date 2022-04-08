@@ -6,3 +6,6 @@
 
 #truffle config
 src/truffle-config.js
+
+#package-lock.json
+src/package-lock.json
