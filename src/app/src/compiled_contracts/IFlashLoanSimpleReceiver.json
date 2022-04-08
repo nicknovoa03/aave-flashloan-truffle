@@ -937,7 +937,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.4",
-  "updatedAt": "2022-04-08T03:51:29.114Z",
+  "updatedAt": "2022-04-08T04:20:58.585Z",
   "devdoc": {
     "author": "Aave",
     "details": "Implement this interface to develop a flashloan-compatible flashLoanReceiver contract*",
