@@ -1,5 +1,5 @@
-const PrintMoney = artifacts.require("PrintMoney");
+const BitRage = artifacts.require("BitRage");
 
 module.exports = function(deployer) {
-    deployer.deploy(PrintMoney);
+    deployer.deploy(BitRage);
 };
